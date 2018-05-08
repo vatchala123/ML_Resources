@@ -60,3 +60,10 @@
 
 ## Simple Python 
 * [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+
+
+## Contributors
+This repo is maintained by
+
+* [Vatchala123](https://github.com/vatchala123)
+
