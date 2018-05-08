@@ -37,7 +37,7 @@
 * [Smerity](http://smerity.com/articles/articles.html)
 * [The Neural Perspective](https://theneuralperspective.com/)
 * [Colah's Blog](http://colah.github.io/)
-* [Distill ](https://distill.pub
+* [Distill ](https://distill.pub)
 * [FastML ](http://fastml.com/)
 
 
