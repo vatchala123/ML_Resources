@@ -55,6 +55,7 @@
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Lumiverse](http://lumiverse.io)
 * [sentdex](https://www.youtube.com/user/sentdex)
+* [CalTech](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
 
 ## Environments To Play
 * [Kaggle](https://www.kaggle.com)
