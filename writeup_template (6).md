@@ -16,6 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
+[//]: # (Image References)
 [image2]: ./examples/laneLines_thirdPass.jpg "laneslines_thirdPass"
 
 ---
@@ -32,7 +33,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ![alt text][image1]
 
-#The steps followed by me
+#**The steps followed by me**
 
 1.converted grayscale image
 ![alt text][image2]
